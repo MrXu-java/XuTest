@@ -17,5 +17,6 @@ public class HelloTest {
         System.out.println(S == "123456");
         System.out.println("更新二");
         System.out.println("这是一个分支");
+        System.out.print("在线更新");
     }
 }
