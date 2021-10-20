@@ -15,5 +15,6 @@ public class HelloTest {
 
     public static void main(String[] args){
         System.out.println(S == "123456");
+        System.out.println("更新二");
     }
 }
